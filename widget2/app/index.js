@@ -13,6 +13,8 @@ window.addEventListener("message", async (event) => {
       });
 
       const data = await response.text();
+      console.log("📦 Widget2 service response:", data);
+      
       document.getElementById("token-status").innerText = data;
     } catch (err) {
       console.error("Widget2 API call failed:", err);
