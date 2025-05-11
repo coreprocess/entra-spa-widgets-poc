@@ -93,7 +93,7 @@ This will run:
 
 ## 🚜 Cleanup
 
-To remove all created Entra apps, manually delete them via Azure Portal or run a cleanup script (not included).
+To remove all created Entra apps, manually delete them via Azure Portal. All created Entra apps are prefixed with "Pre-Auth-App-Test".
 
 ---
 
