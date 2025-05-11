@@ -1,0 +1,11 @@
+{
+    "name": "widget1-app",
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  

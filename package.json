@@ -1,0 +1,9 @@
+{
+    "name": "entra-spa-widgets-poc",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+      "dev": "pnpm -r --parallel run dev"
+    }
+  }
+  

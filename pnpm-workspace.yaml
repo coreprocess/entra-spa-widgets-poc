@@ -1,0 +1,4 @@
+packages:
+  - 'portal/*'
+  - 'widget1/*'
+  - 'widget2/*'
