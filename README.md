@@ -2,6 +2,8 @@
 
 This project demonstrates a secure architecture for integrating multiple widget apps (micro frontends) into a central single-page portal app using Azure Entra ID (Microsoft identity platform). Each component is isolated and protected by its own app registration and access token.
 
+![Screenshot](screenshot.png)
+
 ---
 
 ## 📆 Project Structure
